@@ -1,2 +1,0 @@
-# FreeNetmgmg.json
-FreeNetmgmg.json
