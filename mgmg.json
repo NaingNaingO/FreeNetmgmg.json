@@ -2,50 +2,19 @@
    "files": [    
 
 {
-         "name": "TrueMove-Game-001-VIP",
-         "url": "https://naingoo.000webhostapp.com/TRUE]-%7B01%7D.ovpn"
-      },
-
-
-{
-         "name": "TrueMove-Game-002-VIP",
-         "url": "https://naingoo.000webhostapp.com/TRUE]-%7B02%7D.ovpn"
-      },
-
-{
-         "name": "TrueMove-Game-003-VIP",
-         "url": "https://naingoo.000webhostapp.com/TRUE]-%7B03%7D.ovpn"
+         "name": "D&T-Game-001-VIP",
+         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/MG-01.ovpn"
       },
 {
-         "name": "TrueMove-Game-004-VIP",
-         "url": "https://naingoo.000webhostapp.com/TRUE-111.ovpn"
+         "name": "D&T-Game-002-VIP",
+         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/MG-02.ovpn"
       },
 {
-         "name": "TrueMove-Game-005-VIP",
-         "url": "https://naingoo.000webhostapp.com/True-112.ovpn"
-      },
-{
-         "name": "TrueMove-Game-006-VIP",
-         "url": "https://naingoo.000webhostapp.com/TRUE-113.ovpn"
-      },
-{
-         "name": "Dtac-Game-001-VIP",
-         "url": "https://naingoo.000webhostapp.com/D-111.ovpn"
-      },
-{
-         "name": "Dtac-Game-002-VIP",
-         "url": "https://naingoo.000webhostapp.com/D-112.ovpn"
-      },
-{
-         "name": "Dtac-Game-003-VIP",
-         "url": "https://naingoo.000webhostapp.com/D-113.ovpn"
-      },
-{
-         "name": "Dtac-Game-004-VIP",
-         "url": "https://naingoo.000webhostapp.com/D-114.ovpn"
+         "name": "D&T-lifetime-003-VIP",
+         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/MG-LIFETIME-01.ovpn"
       }
 ],
 "message":"Update အဆင့်မြင့်ပြီးပါပြီ\n•All New Servers\n•Version: 1\n\n•Config By:FreeNetMgMg ",
-   "title":"Add Dtac 90 day" ,
-   "version": 2
+   "title":"Add Dtac&True auto update file" ,
+   "version": 1
 }
