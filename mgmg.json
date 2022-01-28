@@ -14,15 +14,15 @@
          "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/MG-01.ovpn"
       },
 {
-         "name": "TRUE-Game-004-VIP",
+         "name": "TrueMove-Game-001-VIP",
          "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/MG-02.ovpn"
       },
 {
-         "name": "TRUE-Game-005-VIP",
+         "name": "TrueMove-Game-002-VIP",
          "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/MG-LIFETIME-01.ovpn"
-      }
+      },
 {
-         "name": "D&T-lifetime-006-VIP",
+         "name": "TrueMove-lifetime-003-VIP",
          "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/MG-LIFETIME-01.ovpn"
       }
 ],
