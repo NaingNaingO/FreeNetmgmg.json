@@ -2,31 +2,31 @@
    "files": [    
 
 {
-         "name": "DTAC-Game-001-VIP",
-         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/net-001.ovpn"
+         "name": "DTAC-TRUEMOVE-JP-VIP-GAME-001",
+         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/JP-FREE-%5B005%5D.ovpn"
       },
 {
-         "name": "DTAC-Game-002-VIP",
-         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/net-002.ovpn"
+         "name": "DTAC&TRUEMOVE-JP-VIP-GAME-002",
+         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/JP-FREE-%5B006%5D.ovpn"
       },
 {
-         "name": "DTAC-Game-003-VIP",
-         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/net-003.ovpn"
+         "name": "DTAC&TRUEMOVE-SG-VIP-GAME-003",
+         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/SG-FREE-%5B001%5D.ovpn"
       },
 {
-         "name": "TrueMove-Game-001-VIP",
-         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/net-004.ovpn"
+         "name": "TRUEMOVE&DTAC-SG-VIP-GAME-001",
+         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/SG-FREE-%5B002%5D.ovpn"
       },
 {
-         "name": "TrueMove-Game-002-VIP",
-         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/net-005.ovpn"
+         "name": "TRUEMOVE&DTAC-US-VIP-GAME-002",
+         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/US-FREE-%5B003%5D.ovpn"
       },
 {
-         "name": "TrueMove-Game-003-VIP",
-         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/net-006.ovpn"
+         "name": "TRUEMOVR&DTAC-US-VIP-GAME-003",
+         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/US-FREE-%5B004%5D.ovpn"
       }
 ],
 "message":"Update အဆင့်မြင့်ပြီးပါပြီ\n•All New Servers\n•Version: 1\n\n•Config By:FreeNetMgMg ",
    "title":"Add Dtac&True auto update file" ,
-   "version": 6
+   "version": 7
 }
